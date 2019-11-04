@@ -1,5 +1,5 @@
 
-![2-panel image/heatmap of asteroid belt](https://github.com/equant/Asteroids/docs/assets/Figure_01_H_Heatmap.png)
+![2-panel image/heatmap of asteroid belt](https://github.com/equant/Asteroids/blob/master/docs/assets/Figure_01_H_Heatmap.png)
 
 # Asteroids Repo
 
