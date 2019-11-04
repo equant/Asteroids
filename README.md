@@ -3,9 +3,11 @@
 
 # Asteroids Repo
 
-A collection of code developed for papers written about the asteroid belt.
+A repo of codes developed for papers written about the asteroid belt.
 
+<img align='right' width='33%' src='https://raw.githubusercontent.com/equant/Asteroids/master/docs/assets/completion_limit-fitting-MPCORB-0.02binwidth.png'>
 + completion_limit: Determine the completion limit (Hlim) as a function of semi-major axis (a) using the Minor Planet Center database.
+<br clear='all'>
 
 # Code Availability
 
