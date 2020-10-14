@@ -8,10 +8,9 @@ A repo of codes developed for papers written about the asteroid belt.
 ## Completion Limit
 <img align='left' width='33%' src='https://raw.githubusercontent.com/equant/Asteroids/master/docs/assets/completion_limit-fitting-MPCORB-0.02binwidth.png'><br>
 
-Determine the completion limit (Hlim) as a function of semi-major axis (a) using the Minor Planet Center database.
+Determine the observational completion limit (Hlim) of your data as a function of semi-major axis (a).  This code, written in Python 3, requires numpy, emcee, pandas, matplotlib.
 
-### Code Availability
+src/estimate_completion_limit.py implements the methods from Hendler & Malhotra (2020).  This example script uses test data (sample_data.csv) which is a subset of the minor planet center database.  You will need to provide the data you want analysed as a pandas dataframe with columns 'a' (semi-major axis) and 'H' (absolute magnitude).
 
-We expect to submit our paper the week of November 11th 2019.  At that point, we will make the code available via this repository (https://github.com/equant/Asteroids).
 
 <br clear='all'>
