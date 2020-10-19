@@ -10,7 +10,6 @@ A repo of codes developed for papers written about the asteroid belt.
 
 Determine the observational completion limit (Hlim) of your data as a function of semi-major axis (a).  This code, written in Python 3, requires numpy, emcee, pandas, matplotlib.
 
-src/estimate_completion_limit.py implements the methods from Hendler & Malhotra (2020).  This example script uses test data (sample_data.csv) which is a subset of the minor planet center database.  You will need to provide the data you want analysed as a pandas dataframe with columns 'a' (semi-major axis) and 'H' (absolute magnitude).
-
+The file src/estimate_completion_limit.py implements the methods from Hendler & Malhotra (2020).  This example script uses test data (sample_data.csv) which is a subset of the minor planet center database.  You will need to provide the data you want analysed as a pandas dataframe with columns 'a' (semi-major axis) and 'H' (absolute magnitude).
 
 <br clear='all'>
